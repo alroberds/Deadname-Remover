@@ -17,16 +17,16 @@
 (function() {
     'use strict';
     const settings = {
-		name: {
-			first: "",
-			middle: "",
-			last: ""
+		name: {Al
+			first: "Al",
+			middle: ".",
+			last: "Roberds"
 		},
 		deadname: [
 			{
-				first: "",
-				middle: "",
-				last: ""
+				first: "Allison",
+				middle: "Paige",
+				last: "Roberds"
 			}
 		],
 		enabled: true,
