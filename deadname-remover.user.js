@@ -18,13 +18,13 @@
     'use strict';
     const settings = {
 		name: {
-			first: "",
+			first: "Al",
 			middle: "",
 			last: ""
 		},
 		deadname: [
 			{
-				first: "",
+				first: "Allison",
 				middle: "",
 				last: ""
 			}
